@@ -8,13 +8,13 @@ export const StockList = [
         multiplyMax: 5,
       },
       {
-        des: '${name}出现严重漏洞，大家份份转投XXX',
-        multiplyMax: 5,
+        des: '${name}出现严重漏洞，大家份份转投XXX',  
+        multiplyMax: 5,  
       },
     ],
   },
   {
-    name: '产2',
+    name: '产23',   
     priceRange: [200, 500],
     events: [
       {
